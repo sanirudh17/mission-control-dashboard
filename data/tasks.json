@@ -264,7 +264,7 @@
         {
           "id": "sub_001",
           "title": "First step of the task",
-          "done": true
+          "done": false
         },
         {
           "id": "sub_002",
